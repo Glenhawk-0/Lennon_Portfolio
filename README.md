@@ -2,6 +2,7 @@
 This is my portfolio
 
 **Who Am I?**
+
 I am Lennon Hare, a Soon to be Graduating RIT Student. My Major is New Media Interactive Development. 
 I Specialize in Web Development and tinker with Music and audio effects on the side. 
 
