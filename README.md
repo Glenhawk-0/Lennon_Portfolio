@@ -13,5 +13,5 @@ I Specialize in Web Development and tinker with Music and audio effects on the s
 
 **Banjo Page**
 
-https://people.rit.edu/~leh3291/235/ 
-https://people.rit.edu/~leh3291/235/Hare-L-hw2/web-audio-hw3/index.html
+- https://people.rit.edu/~leh3291/235/ 
+- https://people.rit.edu/~leh3291/235/Hare-L-hw2/web-audio-hw3/index.html
